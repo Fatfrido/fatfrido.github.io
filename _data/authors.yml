@@ -1,0 +1,11 @@
+Fatfrido:
+  name: "Fatfrido"
+  bio: "Software engineer and game enthusiast"
+  avatar: "/assets/images/authors/fatfrido.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:fatfrido@gmail.com"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://fatfrido.github.io"
