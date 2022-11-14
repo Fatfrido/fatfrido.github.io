@@ -1,1 +1,1 @@
-docker run --rm --volume="%CD%:/srv/jekyll:Z" --publish [::1]:4000:4000 -p 4000:4000 jekyll/jekyll jekyll serve
+docker run --name fatside-dev --volume="%CD%:/srv/jekyll:Z" --publish [::1]:4000:4000 -p 4000:4000 jekyll/jekyll jekyll serve

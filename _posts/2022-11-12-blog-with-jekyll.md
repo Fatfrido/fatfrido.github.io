@@ -1,7 +1,7 @@
 ---
-title: "Create your own static blog with Jekyll and GitHub Pages for free - I"
-date: 2022-11-12 09:20:00 +0100
-categories: [Jekyll, GitHub Pages, Blog]
+title: "Create your own static blog with Jekyll and GitHub Pages for free"
+date: 2022-11-14 16:45:00 +0100
+categories: [Blog]
 author: Fatfrido
 
 toc: true
